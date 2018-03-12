@@ -1,4 +1,4 @@
-![2018 To Do List!](horoscope/horoscope.png)
+![Horoscope!](img/horoscope.png)
 
 # My Awesome Project
 This is an simple to-do Horoscope application that allows the user to enter in two different inputs and returning their reading for the day. One being for the month they were born and the other for the day on a click of a button!
